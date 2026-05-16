@@ -16,4 +16,4 @@ Developer of:
 - AI-assisted scientific software engineering
 
 ## Website
-https://huson.de
+https://www.huson.de
